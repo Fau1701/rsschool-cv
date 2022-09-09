@@ -5,5 +5,8 @@
 ## Frontend developer
 
 ***
+
 ## Skills
 HTML, CSS, JavaScript, React
+
+***
